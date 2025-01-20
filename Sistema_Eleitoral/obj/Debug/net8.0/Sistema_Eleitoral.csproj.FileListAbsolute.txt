@@ -1,0 +1,5 @@
+C:\Users\joselucas\Desktop\desafio4\Sistema_Eleitoral\obj\Debug\net8.0\Sistema_Eleitoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joselucas\Desktop\desafio4\Sistema_Eleitoral\obj\Debug\net8.0\Sistema_Eleitoral.AssemblyInfoInputs.cache
+C:\Users\joselucas\Desktop\desafio4\Sistema_Eleitoral\obj\Debug\net8.0\Sistema_Eleitoral.AssemblyInfo.cs
+C:\Users\joselucas\Desktop\desafio4\Sistema_Eleitoral\obj\Debug\net8.0\Sistema_Eleitoral.csproj.CoreCompileInputs.cache
+C:\Users\joselucas\Desktop\desafio4\Sistema_Eleitoral\obj\Debug\net8.0\Sistema_Eleitoral.sourcelink.json
